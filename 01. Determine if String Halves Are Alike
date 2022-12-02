@@ -1,3 +1,5 @@
+///----------- Determine if String Halves Are Alike ---------------//
+
 string vowels = "aeiouAEIOU";
 
 class Solution {

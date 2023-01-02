@@ -17,6 +17,8 @@ Note: The input will be a non-empty word consisting of uppercase and lowercase l
 //Runtime: 8 ms, faster than 99.61% of C++ online submissions for Detect Capital.
 //Memory Usage: 11.2 MB, less than 92.50% of C++ online submissions for Detect Capital.
 
+
+
 class Solution {
 public:
     bool detectCapitalUse(string word) {

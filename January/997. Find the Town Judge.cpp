@@ -31,6 +31,7 @@ trust[i][0] != trust[i][1]
 1 <= trust[i][0], trust[i][1] <= N
 **/
 
+
 //better
 //Runtime: 196 ms, faster than 49.32% of C++ online submissions for Find the Town Judge.
 //Memory Usage: 50.5 MB, less than 100.00% of C++ online submissions for Find the Town Judge.
@@ -60,6 +61,8 @@ public:
         return -1;
     }
 };
+
+
 
 //Runtime: 356 ms, faster than 23.27% of C++ online submissions for Find the Town Judge.
 //Memory Usage: 60.9 MB, less than 12.50% of C++ online submissions for Find the Town Judge.

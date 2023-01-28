@@ -1,3 +1,9 @@
+/*
+Link to the "Data Stream as Disjoint Intervals" Problem ==>>  https://leetcode.com/problems/data-stream-as-disjoint-intervals/     
+   
+Link to the complete Explaination Video ==>> https://youtu.be/v3SvIMhD8z0
+*/
+
 class SummaryRanges {
     set<int> values;
 public:

@@ -1,7 +1,5 @@
 /*
 
-Author : Manas Rawat
-Date : 01/01/2024
 Problem : Array Pair Sum Divisibility Problem
 Difficulty : Medium
 Problem Link : https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1
